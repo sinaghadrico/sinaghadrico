@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 , I am Sina Ghadri!
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaghadrico&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SinaGhadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinaghadrico&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sinaghadrico/sinaghadrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
